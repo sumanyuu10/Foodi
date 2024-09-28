@@ -1,4 +1,7 @@
-link to foodi- server : https://github.com/sumanyuu10/foodi-server 
+# Server Repo
+https://github.com/sumanyuu10/foodi-server 
+# Deployment Link
+https://foodi-tau.vercel.app/
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
